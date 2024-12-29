@@ -1,0 +1,4 @@
+# Requirements File 
+# Author: Your Name 
+# Date: 29-12-2024 
+# Description: Lists Python dependencies required for the Django project. 
